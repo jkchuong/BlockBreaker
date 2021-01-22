@@ -1,2 +1,2 @@
 # BlockBreaker
-Same game featuring block breaking mechanics
+Small game featuring block breaking mechanics
